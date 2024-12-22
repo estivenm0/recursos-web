@@ -14,7 +14,10 @@ Colección de elegantes y útiles herramientas para crear en línea. Úsalas con
 - Genera una interfaz de usuario con indicaciones de texto simples. Copia, pega y envía.  [V0](https://v0.dev/)
 - Sitio que te ayuda a encontrar y usar colores para tus proyectos. [Happy Hues](https://www.happyhues.co/)
 - Ilustraciones para la página 404. [Error404](https://error404.fun/)
-
+- Temas gratuitos para Bootstrap. [Bootswatch](https://bootswatch.com/)
+- Cree temas y plantillas de Bootstrap. [Bootstrap Build](https://bootstrap.build/app)
+- Conjunto de dibujos animados. Puedes usarlo en cualquier proyecto. [GEE! ME](https://geeme.vercel.app/)
+- Convierte tu idea en una aplicación. [Llama Coder](https://llamacoder.together.ai/)
 
 ## Diseño ✏
 - Pizarra colaborativa virtual para dibujar fácilmente diagramas con una apariencia dibujada a mano. [Excalidraw](https://excalidraw.com/)
