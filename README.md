@@ -18,6 +18,12 @@ Colección de elegantes y útiles herramientas para crear en línea. Úsalas con
 - Cree temas y plantillas de Bootstrap. [Bootstrap Build](https://bootstrap.build/app)
 - Conjunto de dibujos animados. Puedes usarlo en cualquier proyecto. [GEE! ME](https://geeme.vercel.app/)
 - Convierte tu idea en una aplicación. [Llama Coder](https://llamacoder.together.ai/)
+- Bloques listos con Tailwind CSS para usar en tus proyectos. [Tailblocks](https://tailblocks.cc/)
+- Crea interfaces sorprendentes con más de 1800 componentes listos para usar. [TailwindFlex](https://tailwindflex.com/)
+- 150 bloques de construcción para crear casi cualquier tipo de sitio web con solo unos clics. [MambaUI](https://mambaui.com/components)
+- Más de 350 componentes TailwindCSS para crear su sitio en minutos. [Tailspark](https://tailspark.co/components)
+- Colección de 10,000 fragmentos de código en CSS, JavaScript, Bootstrap, Tailwind, jQuery, React, Vue... [FreeFrontend](https://freefrontend.com/)
+
 
 ## Diseño ✏
 - Pizarra colaborativa virtual para dibujar fácilmente diagramas con una apariencia dibujada a mano. [Excalidraw](https://excalidraw.com/)
